@@ -1,0 +1,7 @@
+type: custom:proxmox-monitor-card
+title: Proxmox
+show_host: true
+show_services: true
+show_network: true
+show_storage: true
+show_uptime: true
