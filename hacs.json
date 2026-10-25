@@ -1,0 +1,6 @@
+{
+  "name": "Proxmox Monitor Card",
+  "filename": "proxmox-monitor-card.js",
+  "render_readme": true,
+  "homeassistant": "2024.1.0"
+}
